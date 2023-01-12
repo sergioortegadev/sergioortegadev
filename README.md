@@ -6,19 +6,21 @@
 
 ```javascript
 const sergioOrtegaDev = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "HTML", "CSS", "Java"],
-    askMeAbout: ["React dev", "Web dev", "Web app dev", "Front end"],
-    technologies: {
-        frontEnd: {
-            ["React.js", "Bootstrap"]
-        },
-        backEnd: {
-            ["Node.js", "Java", "MySQL"]
-        },
-        others: {
-            ["Git", "GitHub"]
-        },
+  pronouns: "He" | "Him",
+  code: ["JavaScript", "HTML", "CSS", "Java"],
+  askMeAbout: ["React dev", "Web dev", "Web app dev", "Front end"],
+  technologies: {
+    frontEnd: 
+      ["React.js", "Bootstrap"],
+    backEnd: 
+      ["Node.js", "Java", "MySQL"],
+    others: 
+      ["Git", "GitHub"],
+  },
+  softSkills: {
+    ComunicaciónEfectiva: true,
+    HabilidadAnalítica: true
+  }
 };
 ```
 ### View my CV in my React web app: https://sergioortega.com.ar
