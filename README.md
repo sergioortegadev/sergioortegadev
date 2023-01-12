@@ -1,16 +1,25 @@
-### Hi there 👋
+<img src="/GitHub-profile.jpg" alt="Sergio Ortega Developer GitHub profile image" />
+<h1 align="center"> Sergio Ortega Developer </h1>
 
-<!--
-**instintoimagen/instintoimagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer with experience in layout of prototypes designed with creativity, user friendly, following UX guidelines.
+#### Programmer specialized in web technologies such as JavaScript, React, API consuming, and also Node, Java and MySQL. Git and Github handling. Interested in scalable projects, with agile methodologies like SCRUM and CI/CD processes.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const sergioOrtegaDev = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "HTML", "CSS", "Java"],
+    askMeAbout: ["React dev", "Web dev", "Web app dev", "Front end"],
+    technologies: {
+        frontEnd: {
+            ["React.js", "Bootstrap"]
+        },
+        backEnd: {
+            ["Node.js", "Java", "MySQL"]
+        },
+        others: {
+            ["Git", "GitHub"]
+        },
+};
+```
+### View my CV in my React web app: https://sergioortega.com.ar
+[![Linkedin: Sergio Ortega Dev](https://img.shields.io/badge/-SergioOrtegaDev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergioortegadev/)](https://www.linkedin.com/in/sergioortegadev/)
