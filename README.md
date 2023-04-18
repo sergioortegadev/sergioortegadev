@@ -1,8 +1,8 @@
 <img src="/GitHub-profile.jpg" alt="Sergio Ortega Developer GitHub profile image" />
 <h1 align="center"> Sergio Ortega Developer </h1>
 
-### Developer with experience in layout of prototypes designed with creativity, user friendly, following UX guidelines.
-#### Programmer specialized in web technologies such as JavaScript, React, API consuming, and also Node, Java and MySQL. Git and Github handling. Interested in scalable projects, with agile methodologies like SCRUM and CI/CD processes.
+### Developer with experience in layout of prototypes designed with creativity, user friendly, and following UX guidelines.
+#### Programmer specialized in web technologies such as JavaScript, React, API consuming, and also Node, Java and MySQL. Git and Github handling. Interested in scalable projects, with agile methodologies like SCRUM and CI/CD processes. Always a technology enthusiast, I am a born self taught, and I keep myself constantly updated.
 
 <div align="center">
   
@@ -64,19 +64,20 @@ const sergioOrtegaDev = {
   
  <!--- <a href="https://www.codepen.io/dc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a>  <a href="http://www.instagram.com/dc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  <a href="https://codesandbox.io/u/dc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox-dark.svg" width="32" height="32" /></a> <a href="https://www.dev.to/dc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/dc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/dc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/dc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>  <a href="https://danielcranney.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>  <a href="https://www.polywork.com/dc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="http://www.medium.com/dc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://dc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/dc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>  <a href="https://www.youtube.com/c/dc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/dc" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>  --->
 
-</div>
   
 ---
+
+### My GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sergioortegadev&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+
   
-  
+</div>
   <!---     Badges 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/danielcranney"><img src="https://github-readme-stats.vercel.app/api?username=danielcranney&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="danielcranney's GitHub stats" /></a>
-
-<a href="http://www.github.com/danielcranney"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danielcranney&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/danielcranney"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=danielcranney&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergioortegadev&count_private=true)
+  
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sergioortegadev
 --->
