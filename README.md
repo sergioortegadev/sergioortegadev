@@ -1,4 +1,4 @@
-<img src="/GitHub-profile.jpg" alt="Sergio Ortega Developer GitHub profile image" />
+<img src="/banner-large.png" alt="Sergio Ortega Developer GitHub profile image" />
 <h1 align="center"> Sergio Ortega Developer </h1>
 
 ### Developer with experience in layout of prototypes designed with creativity, user friendly, and following UX guidelines.
