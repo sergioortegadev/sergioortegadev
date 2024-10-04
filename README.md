@@ -2,7 +2,7 @@
 <h1 align="center"> Sergio Ortega Developer </h1>
 
 ### Developer with experience in layout of prototypes designed with creativity, user friendly, and following UX guidelines.
-#### Programmer specialized in web technologies such as JavaScript, React, API consuming, and also Node, Java and MySQL. Git and Github handling. Interested in scalable projects, with agile methodologies like SCRUM and CI/CD processes. Always a technology enthusiast, I am a born self taught, and I keep myself constantly updated.
+#### I am a very creative developer, both in creating aesthetically pleasing, responsive and maintainable user interfaces, and in finding new solutions to existing processes or problems with ingenuity.
 
 <div align="center">
   
