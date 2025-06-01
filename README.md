@@ -15,14 +15,12 @@
 ```javascript
 const sergioOrtegaDev = {
   pronouns: "He" | "Him",
-  askMeAbout: ["React dev", "Web dev", "Web app dev", "Full stack", "Front end"],
+  askMeAbout: ["React dev", "Web UI dev", "Web app dev", "Front end"],
   technologies: {
-    frontEnd: 
-      ["React.js", "Bootstrap", "Tailwind"],
-    backEnd: 
-      ["Node.js", "TypeScript", "MongoDB", "SQL"],
+    dev: 
+      ["React.js", "Next.js", "Tailwind", "Bootstrap", "TypeScript"],
     others: 
-      ["Git", "GitHub"],
+      ["Git", "GitHub", "Jira", "Confluence", "Conventional Commit", "Microfrontends"],
   },
   softSkills: {
     effectiveCommunication: true,
